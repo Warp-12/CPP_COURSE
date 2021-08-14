@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-
+//test
 bool isPalindrome(const std::string &text)
 {
 
