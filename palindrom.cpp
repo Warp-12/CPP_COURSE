@@ -15,8 +15,6 @@ bool isPalindrome(const std::string &text)
 
 int main(int argc, char *argv[])
 {
-    (void)argc;
-    (void)argv;
 
     std::string palindrom = "";
 
